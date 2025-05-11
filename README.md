@@ -11,12 +11,11 @@ The project supports natural language interaction for tourist helping
 - Web frontend for interactive chat
 - Multi-turn conversation support
 
-##Some components link:
-Original Model: https://huggingface.co/FlagAlpha/Llama3-Chinese-8B-Instruct/tree/main
-Fine-Tune Model:https://huggingface.co/RenA1ssance/Chatbot_Tourism
-Dataset1 link: https://huggingface.co/datasets/soniawmeyer/travel-conversations-finetuning
-Dataset2 link: https://huggingface.co/datasets/RenA1ssance/Dataset_NJ
-
+## Some components link:  
+Original Model: https://huggingface.co/FlagAlpha/Llama3-Chinese-8B-Instruct/tree/main  
+Fine-Tune Model: https://huggingface.co/RenA1ssance/Chatbot_Tourism  
+Dataset1 link: https://huggingface.co/datasets/soniawmeyer/travel-conversations-finetuning  
+Dataset2 link: https://huggingface.co/datasets/RenA1ssance/Dataset_NJ  
 ##How to use 
 
 
